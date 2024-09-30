@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Test",
+        "username": "test",
+        "email": "test@aaa.com",
+        "password": "password123",
+        "role": "Admin",
+        "address": "",
+        "phoneNumber": "081319023264"        
+    },
+    {
+        "email": "test@aaa.com",
+        "password": "password123"
+    },
+    {
+        "email": "test@aaa.com",
+        "password": "salahhhh"
+    }
+]
